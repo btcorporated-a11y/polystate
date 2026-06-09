@@ -1,0 +1,16 @@
+# Zig
+zig-cache/
+zig-out/
+.zig-cache/
+
+# Archives
+*.tar.gz
+*.zip
+*.7z
+
+# OS / Editor
+shell.nix
+.DS_Store
+.vscode/
+.idea/
+*.swp
